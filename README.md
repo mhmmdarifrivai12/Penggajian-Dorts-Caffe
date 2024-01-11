@@ -3,11 +3,11 @@
 ### Download Project
 
 ```bash
-  git clone 
+  git clone https://github.com/mhmmdarifrivai12/Penggajian-Dorts-Caffe.git
 ```
 
 ```bash
-  cd nama_project
+  cd Penggajian-Dorts-Caffe
 ```
 
 -   Copy .env.example menjadi .env edit konfigurasi database dll
